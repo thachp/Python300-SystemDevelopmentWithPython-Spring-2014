@@ -73,81 +73,75 @@ In addition, as we work with you on your projects, we will highlight for the cla
 March 25th
 
 #### Topics 
-- packaging
-- unit testing (coverage)
-- unicode
-- PEP-8 (pylint/pychecker/pyflakes)
-- documentation (docstrings, sphinx)
+- packaging: Chris
+- unit testing (coverage): Joseph
+- unicode: Chris
 
--- Chris
 
 ### Week 2
 April 1st
 (proposals due)
 #### Topics 
-- Debugging (print, pdb/ipdb, winpdb, eclipse)
-- logging
-- "advanced OO" (\__new()__, super(), mixins, type, metaclasses, abc module)
-- weak references
+- PEP-8 (pylint/pychecker/pyflakes): Joseph
+- Documentation (docstrings, sphinx): Chris
+- Debugging (print, logging, pdb/ipdb, winpdb, eclipse): Joseph
+- Weak references: Chris
 
--- Joseph
 
 ### Week 3
 April 8th
 
 #### Topics
-- numpy, scipy, pandas, matplotlib, ipython/notebook, ...
-- datetime,time,pytz
- 
--- Chris
+- "advanced OO"
+  - \__new()__, super(): Chris
+  - mixins, type, metaclasses: Joseph
+  - Abstract Base Classes: Chris
 
 ### Week 4
 
 April 15th
 
 #### Topics 
-- Databases (DB-API w/ sqlite, postgres, mysql)
-- ORM (?)
+- Databases (DB-API w/ sqlite, postgres, mysql): Joseph
+- Non-relational DBs (zdb, Riak, MongoDB, couchDB, BSDdb): Chris
 - code reviews begin
 
--- Joseph
 
 ### Week 5
 April 22nd
 
 #### Topics 
-- non-relational DBs (zdb, Riak, MongoDB, couchDB, BSDdb) (Chris?)
 - serialization review / XML (Joseph?)
 - Lambda functions / functional programming / functools
 - use immutable kwargs in function definition
 - itertools
 
--- Joseph (Chris out of town)
+(Chris out of town)
 
 ### Week 6
 April 29th
 
 #### Topics 
-- C extensions( C API, ctypes, cython)
 
--- Chris/Joseph
+- datetime,time,pytz: Joseph
+- numpy, scipy, pandas, matplotlib, ipython/notebook: Chris
+
 
 ### Week 7
 May 6th 
 
 #### Topics 
-- profiling
-- threading/multiprocessing
 
--- Joseph
+- profiling: Joseph
+- multi-threading/processing: Fulvio
+
 
 ### Week 8
 May 13th
 
 #### Topics 
-- GUI programming: wxPython, pyQT, tkinter, (GTK, pygame?)    
+- C extensions( C API, ctypes, cython) : Chris
 
--- Chris
 
 ### Week 9
 May 20th
